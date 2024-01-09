@@ -1,0 +1,47 @@
+.nav {
+    background-color:pink;
+    padding: auto;
+    margin: auto;
+    height: 30px;
+}
+.nav a{
+    color:black;
+    text-decoration: none;
+    text-align: center;
+  justify-content: center;
+    padding: 14px 16px;
+   
+}
+.nav a:hover{
+  background-color: rgb(90, 178, 90);
+}
+.nav i{
+    color:black;
+    text-decoration: none;
+    text-align: center;
+  justify-content: center;
+    padding: 14px 16px;
+}
+.nav i:hover{
+    background-color: aqua;
+    color: red;
+}
+body{
+    background-image: url(yoga.jpg);
+   background-size: cover;
+   background-attachment: fixed;
+}
+h1{
+    color: aqua;
+}
+p{
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button{
+    background-color: blueviolet;
+    color: white;
+}
+button:hover{
+    background-color: cyan;
+    color: red;
+}
